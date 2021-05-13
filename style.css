@@ -1,0 +1,13 @@
+body {
+  background-color:#64c3d1;
+  font-family: 'Caveat';
+}
+
+@font-face {
+  font-family: 'Caveat';
+  src:  url('./resources/fonts/Caveat/Caveat-VariableFont_wght.ttf') format('truetype');
+}
+
+p {
+  font-size: 30px;
+}
