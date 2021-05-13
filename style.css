@@ -11,3 +11,112 @@ body {
 p {
   font-size: 30px;
 }
+
+a {
+  font-size: 30px;
+}
+
+.background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  animation: bg-animation 2s infinite;
+}
+
+@-webkit-keyframes bg-animation {
+  0% {
+    background-color: #D4B3FF;
+  }
+  7% {
+    background-color: #DAB8F0;
+  }
+  13% {
+    background-color: #E0BEE1;
+  }
+  20% {
+    background-color: #E6C3D2;
+  }
+  26% {
+    background-color: #EDC8C3;
+  }
+  33% {
+    background-color: #F3CDB4;
+  }
+  39% {
+    background-color: #F9D3A5;
+  }
+  46% {
+    background-color: #FFD896;
+  }
+  52% {
+    background-color: #F9D3A5;
+  }
+  59% {
+    background-color: #F3CDB4;
+  }
+  65% {
+    background-color: #EDC8C3;
+  }
+  72% {
+    background-color: #E6C3D2;
+  }
+  79% {
+    background-color: #E0BEE1;
+  }
+  85% {
+    background-color: #DAB8F0;
+  }
+  100% {
+    background-color: #D4B3FF;
+  }
+}
+
+@keyframes bg-animation {
+  0% {
+    background-color: #D4B3FF;
+  }
+  7% {
+    background-color: #DAB8F0;
+  }
+  13% {
+    background-color: #E0BEE1;
+  }
+  20% {
+    background-color: #E6C3D2;
+  }
+  26% {
+    background-color: #EDC8C3;
+  }
+  33% {
+    background-color: #F3CDB4;
+  }
+  39% {
+    background-color: #F9D3A5;
+  }
+  46% {
+    background-color: #FFD896;
+  }
+  52% {
+    background-color: #F9D3A5;
+  }
+  59% {
+    background-color: #F3CDB4;
+  }
+  65% {
+    background-color: #EDC8C3;
+  }
+  72% {
+    background-color: #E6C3D2;
+  }
+  79% {
+    background-color: #E0BEE1;
+  }
+  85% {
+    background-color: #DAB8F0;
+  }
+  100% {
+    background-color: #D4B3FF;
+  }
+}
