@@ -1,6 +1,7 @@
 body {
-  background-color:#64c3d1;
+  background-color:#ffb0bd;
   font-family: 'Caveat';
+  color: #6d597a;
 }
 
 @font-face {
@@ -10,12 +11,17 @@ body {
 
 p {
   font-size: 30px;
+  text-align: center;
 }
 
 a {
   font-size: 30px;
 }
 
+h1{
+  text-align: center;
+  font-size: 60px;
+}
 .background {
   position: absolute;
   top: 0;
@@ -119,4 +125,31 @@ a {
   100% {
     background-color: #D4B3FF;
   }
+}
+
+.button {
+  border-radius: 5px;
+  font-family: 'Caveat';
+  font-size: 30px;
+  background-color: pink; /* Green */
+  border: none;
+  color: pink;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  outline: none;
+}
+
+.home_button {
+  background-color: pink;
+  color: #a53860;
+}
+
+.home_button:hover {
+  background-color: #ffd972;
+  color: #f2545b;
 }
