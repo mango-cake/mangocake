@@ -1,13 +1,13 @@
 body {
   background-color:#f69966;
 
-  font-family: 'Alkalami';
+  font-family: 'Shantell Sans';
   color: #fb772f;
 }
 
 @font-face {
-  font-family: 'Alkalami';
-  src:  url('./resources/fonts/Caveat/Alkalami-Regular.ttf') format('truetype');
+  font-family: 'Shantell Sans';
+  src:  url('./resources/fonts/Caveat/Shantell Sans-Regular.ttf') format('truetype');
 }
 
 p {
@@ -130,7 +130,7 @@ h1{
 
 .button {
   border-radius: 5px;
-  font-family: 'Alkalami';
+  font-family: 'Shantell Sans';
   font-size: 30px;
   background-color: rgb(194, 95, 29); /* Green */
   border: none;
@@ -147,10 +147,10 @@ h1{
 
 .home_button {
   background-color: rgb(218, 141, 79);
-  color: #a53860;
+  color: #CDD7D6;
 }
 
 .home_button:hover {
   background-color: #eb9d36;
-  color: #f2545b;
+  color: #FFFFFF;
 }
