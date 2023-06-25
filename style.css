@@ -34,97 +34,97 @@ h1{
 
 @-webkit-keyframes bg-animation {
   0% {
-    background-color: #FFC971;
+    background-color: #757BC8;
   }
   7% {
-    background-color: #FFB627;
+    background-color: #8187DC;
   }
   13% {
-    background-color: #FF9505;
+    background-color: #8E94F2;
   }
   20% {
-    background-color: #E2711D;
+    background-color: #9FA0FF;
   }
   26% {
-    background-color: #CC5803;
+    background-color: #ADA7FF;
   }
   33% {
     background-color: #E2711D;
   }
   39% {
-    background-color: #FF9505;
+    background-color: #BBADFF;
   }
   46% {
-    background-color: #FFB627;
+    background-color: #CBB2FE;
   }
   52% {
-    background-color: #FFC971;
+    background-color: #DAB6FC;
   }
   59% {
-    background-color: #FFB627;
+    background-color: #DDBDFC;
   }
   65% {
-    background-color: #FF9505;
+    background-color: #E0C3FC;
   }
   72% {
-    background-color: #E2711D;
+    background-color: #757BC8;
   }
   79% {
-    background-color: #CC5803;
+    background-color: #8187DC;
   }
   85% {
-    background-color: #E2711D;
+    background-color: #8E94F2;
   }
   100% {
-    background-color: #FF9505;
+    background-color: #9FA0FF;
   }
 }
 
 @keyframes bg-animation {
   0% {
-    background-color: #FFC971;
+    background-color: #757BC8;
   }
   7% {
-    background-color: #FFB627;
+    background-color: #8187DC;
   }
   13% {
-    background-color: #FF9505;
+    background-color: #8E94F2;
   }
   20% {
-    background-color: #E2711D;
+    background-color: #9FA0FF;
   }
   26% {
-    background-color: #CC5803;
+    background-color: #ADA7FF;
   }
   33% {
     background-color: #E2711D;
   }
   39% {
-    background-color: #FF9505;
+    background-color: #BBADFF;
   }
   46% {
-    background-color: #FFB627;
+    background-color: #CBB2FE;
   }
   52% {
-    background-color: #FFC971;
+    background-color: #DAB6FC;
   }
   59% {
-    background-color: #FFB627;
+    background-color: #DDBDFC;
   }
   65% {
-    background-color: #FF9505;
+    background-color: #E0C3FC;
   }
   72% {
-    background-color: #E2711D;
+    background-color: #757BC8;
   }
   79% {
-    background-color: #CC5803;
+    background-color: #8187DC;
   }
   85% {
-    background-color: #E2711D;
+    background-color: #8E94F2;
   }
   100% {
-    background-color: #FF9505;
+    background-color: #9FA0FF;
   }
 }
 
