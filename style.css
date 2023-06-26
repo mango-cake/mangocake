@@ -34,13 +34,13 @@ h1{
 
 @-webkit-keyframes bg-animation {
   0% {
-    background-color: #757BC8;
+    background-color: #9ea3ec;
   }
   7% {
-    background-color: #8187DC;
+    background-color: #9da2ec;
   }
   13% {
-    background-color: #8E94F2;
+    background-color: #a2a8fa;
   }
   20% {
     background-color: #9FA0FF;
@@ -146,13 +146,13 @@ h1{
 }
 
 .home_button {
-  background-color: rgb(218, 141, 79);
-  color: #CDD7D6;
+  background-color: rgb(116, 161, 245);
+  color: #755fda;
 }
 
 .home_button:hover {
-  background-color: #eb9d36;
-  color: #FFFFFF;
+  background-color: #94b7f8;
+  color: #894ccf;
 }
 
 
